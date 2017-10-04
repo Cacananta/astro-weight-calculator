@@ -1,0 +1,37 @@
+body {
+  background-image: url('https://images.alphacoders.com/160/160813.jpg');
+  background-size: cover;
+}
+
+#output {
+  color: white;
+  font-size: 2em;
+  font-family: 'Space Mono', monospace;
+}
+
+.div-body {
+  position: absolute;
+  text-align: center;
+  top: 15%;
+  left:40%;
+}
+
+#remove-pluto {
+  font-size: 1em;
+}
+
+.header-one {
+  color: grey;
+  font-size: 2em;
+  font-family: 'Space Mono', monospace;
+}
+
+#user-weight,
+#planets,
+#calculate-button,
+#new-planet,
+#new-weight,
+#new-planet-button {
+  height: 2em;
+}
+
